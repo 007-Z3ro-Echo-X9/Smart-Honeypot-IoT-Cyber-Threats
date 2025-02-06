@@ -1,4 +1,3 @@
-# Smart-Honeypot-IoT-Cyber-Threats
 # Smart Honeypot for IoT Cyber Threats
 
 This project involves creating an intelligent honeypot system to mimic IoT devices, detect attacks, and improve security. It includes emulation of IoT devices, adaptive learning for attack detection, automated reporting, and real-time alerts.
